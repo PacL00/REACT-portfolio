@@ -1,5 +1,4 @@
 
-
 function Projects() {
   return (
      <div>
@@ -7,7 +6,7 @@ function Projects() {
            
             <div>
                 <div>
-                <a href="http://lukerpace.github.io/prework-study-guide/">
+                <a href="https://github.com/PacL00/prework-study-guide">
                     <section class="parentContainer">
                         <img id="img1" src="" alt=""></img>
                         <div class="smallContainer">
@@ -18,7 +17,7 @@ function Projects() {
                 </a>
                 </div>
                 <div id="middleContainer">
-                    <a href="https://lukerpace.github.io/horiseon/">
+                    <a href="https://github.com/PacL00/horiseon">
                         <section class="parentContainer">
                             <img class="smallImg" src=""></img>
                             <div class="smallContainer">
@@ -27,31 +26,31 @@ function Projects() {
                             </div>
                         </section>
                     </a>
-                    <a href="http://lukerpace.github.io/prework-study-guide/">
+                    <a href="https://github.com/PacL00/WeatherWatcher">
                         <section class="parentContainer">
                             <img class="smallImg" src="" alt=""></img>
                             <div class="smallContainer">
-                                <h5>Calculator</h5>
+                                <h5>Weather App</h5>
                                 <p>React</p>
                             </div>
                         </section>
                     </a>
                 </div>
                 <div id="bottomContainer">
-                    <a href="http://lukerpace.github.io/prework-study-guide/">
+                    <a href="https://github.com/PacL00/note-taker">
                         <section class="parentContainer">
                             <img class="smallImg" src="" alt=""></img>
                             <div class="smallContainer">
-                                <h5>Pastel</h5>
+                                <h5>Note Taker</h5>
                                 <p>HTML,CSS</p>
                             </div>
                         </section>
                     </a>
-                    <a href="http://lukerpace.github.io/prework-study-guide/">
+                    <a href="https://github.com/PacL00/calendar-project">
                         <section class="parentContainer">
                             <img class="smallImg" src="" alt=""></img>
                             <div class="smallContainer">
-                                <h5>Run Buddy</h5>
+                                <h5>Calender</h5>
                                 <p>HTML,CSS</p>
                             </div>
                         </section>
