@@ -8,6 +8,8 @@ export default defineConfig({
     port: 5173,
   },
   build: {
-    entry: Path.resolve(__dirname, 'src/main.jsx'),
+    rollupOptions: {
+      input: path.resolve(__dirname, 'index.html'),
     },   
+  },
 })
